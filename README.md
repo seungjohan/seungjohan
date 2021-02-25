@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seungjohan&repo=webeingfruits&theme=dracula)](https://github.com/seungjohan/webeingfruits)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?seungjohan=anuraghazra&show_icons=true&theme=radical)
