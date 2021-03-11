@@ -1,6 +1,4 @@
 ## Seungjo HAN.
-## 
-
 🇰🇷
 ## 🔥 NOMAD, EXECUTOR, PEOPLE PERSON 🔥
 
