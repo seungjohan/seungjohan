@@ -4,10 +4,11 @@
 ### Ex-Cofounder @Webeing
 ### (Coming Soon)Preparing New Startup
 
-### To connect : https://www.linkedin.com/in/seungjohan
+#### Linkedin : https://www.linkedin.com/in/seungjohan
+#### Blog : https://medium.com/@seungjohan1012
+#### Insta : @1012inthemirror
 
 🇰🇷🇺🇸🇪🇸
-### 📍Seoul, Korea
 
 
 #### #entrepreneur#business#IT#startup#global
