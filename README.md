@@ -1,4 +1,19 @@
-### Hi there 👋
+## Seungjo HAN.
+## 
+
+🇰🇷
+## 🔥 NOMAD, EXECUTOR, PEOPLE PERSON 🔥
+
+### Ex-Cofounder @Webeing
+### (Coming Soon)Preparing New Startup
+
+### To connect : https://www.linkedin.com/in/seungjohan
+
+🇰🇷🇺🇸🇪🇸
+### 📍Seoul, Korea
+
+
+#### #entrepreneur#business#IT#startup#global
 
 <!--
 **seungjohan/seungjohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
