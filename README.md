@@ -1,5 +1,4 @@
 ## Seungjo HAN.
-🇰🇷
 ## 🔥 NOMAD, EXECUTOR, PEOPLE PERSON 🔥
 
 ### Ex-Cofounder @Webeing
