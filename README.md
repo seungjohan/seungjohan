@@ -5,7 +5,7 @@
 ### (Coming Soon)Preparing New Startup
 
 #### Linkedin : https://www.linkedin.com/in/seungjohan
-#### Blog : https://medium.com/@seungjohan1012
+#### Blog : [KOR] https://blog.naver.com/tmdwh7275 | [ENG] https://medium.com/@seungjohan1012
 #### Insta : @1012inthemirror
 
 🇰🇷🇺🇸🇪🇸
