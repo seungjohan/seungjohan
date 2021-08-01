@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjohan&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjohan&layout=compact)](https://github.com/seungjohan/github-readme-stats)
