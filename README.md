@@ -5,7 +5,7 @@
 ### (Coming Soon)Preparing New Startup
 
 #### Linkedin : https://www.linkedin.com/in/seungjohan
-#### Blog : [KOR] https://blog.naver.com/tmdwh7275 | [ENG] https://medium.com/@seungjohan1012
+#### Blog : [KOR] https://brunch.co.kr/@hanseungjo | [ENG] https://medium.com/@seungjohan1012
 #### Insta : @1012inthemirror
 
 🇰🇷🇺🇸🇪🇸
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Seungjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjohan&show_icons=true&theme=vue-dark)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seungjohan&repo=webeingfruits&theme=dracula)](https://github.com/seungjohan/webeingfruits)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjohan&show_icons=true&theme=vue-dark)
