@@ -5,13 +5,13 @@
 ### (Coming Soon)Preparing New Startup
 
 #### Linkedin : https://www.linkedin.com/in/seungjohan
-#### Blog : [KOR] https://brunch.co.kr/@hanseungjo | 
-#### /t/t       [ENG] https://medium.com/@seungjohan1012
+#### Blog : [KOR] https://brunch.co.kr/@hanseungjo
+####        [ENG] https://medium.com/@seungjohan1012
 
 🇰🇷🇺🇸🇪🇸
 
 
-#### #entrepreneur#business#IT#startup#global
+#### #entrepreneur #business #IT #startup #global
 
 <!--
 **seungjohan/seungjohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
