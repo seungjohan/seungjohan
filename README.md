@@ -5,8 +5,8 @@
 ### (Coming Soon)Preparing New Startup
 
 #### Linkedin : https://www.linkedin.com/in/seungjohan
-#### Blog : [KOR] https://brunch.co.kr/@hanseungjo | [ENG] https://medium.com/@seungjohan1012
-#### Insta : @1012inthemirror
+#### Blog : [KOR] https://brunch.co.kr/@hanseungjo | 
+#### /t/t       [ENG] https://medium.com/@seungjohan1012
 
 🇰🇷🇺🇸🇪🇸
 
