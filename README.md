@@ -2,8 +2,8 @@
 ## 🔥 NOMAD, EXECUTOR, PEOPLE PERSON 🔥
 
 ### Ex-Cofounder @Webeing
-### (Coming Soon)Preparing New Startup
-
+<!-- ### (Coming Soon)Preparing New Startup
+ -->
 #### Linkedin : https://www.linkedin.com/in/seungjohan
 #### Blog : [KOR] https://brunch.co.kr/@hanseungjo
 ####        [ENG] https://medium.com/@seungjohan1012
