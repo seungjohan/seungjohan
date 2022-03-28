@@ -1,4 +1,5 @@
 ## Seungjo HAN.
+#### As a Business development, Developer, Project Manager
 ## 🔥 NOMAD, EXECUTOR, PEOPLE PERSON 🔥
 
 ### Ex-Cofounder @Webeing
