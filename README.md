@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ![Seungjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjohan&show_icons=true&theme=vue-dark)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seungjohan&repo=webeingfruits&theme=dracula)](https://github.com/seungjohan/webeingfruits)
+</br>
+</br>
+
 
 
 <!-- Tech Stack -->
@@ -41,28 +44,25 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp  -->
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-</br>
-
 <!-- Contract -->
 
 ### 📫 Contacts
 
 <p>
-   &nbsp; &nbsp; &nbsp; &nbsp;
 <!--  Gmail   -->
-<a href="mailto:seungjohan.kr@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:seunjohan.kr@gmail.com?subject=Hi%SeungJo,%reaching%out%to%you%from%Github!)"></a>
+<a href="mailto:seungjohan.kr@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:seunjohan.kr@gmail.com?subject=Hi%SeungJo,%reaching%out%to%you%from%Github!)"></a> &nbsp
 <!--  Linkedin   -->
-<a href="https://www.linkedin.com/in/seungjohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungjohan/"></a> 
+<a href="https://www.linkedin.com/in/seungjohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungjohan/"></a> &nbsp
 <!--  Medium   -->
-<a href="https://hanseungjo.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://hanseungjo.medium.com/"></a>
+<a href="https://hanseungjo.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://hanseungjo.medium.com/"></a> &nbsp
 <!--  Brunch   -->
-<a href="https://brunch.co.kr/@hanseungjo/"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://brunch.co.kr/@hanseungjo/"></a>   
+<a href="https://brunch.co.kr/@hanseungjo/"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://brunch.co.kr/@hanseungjo/"></a> &nbsp
 <!--  NaverBlog   -->
-<a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a>
+<a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a> &nbsp
 <!--  Facebook   -->
-<a href="https://www.facebook.com/seungjohan1012"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seungjohan1012"></a>
+<a href="https://www.facebook.com/seungjohan1012"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seungjohan1012"></a> &nbsp
 <!--  Instagram   -->
-<a href="https://www.instagram.com/1012inthemirror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1012inthemirror/"></a>
+<a href="https://www.instagram.com/1012inthemirror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1012inthemirror/"></a> &nbsp
 
 </p>
 
