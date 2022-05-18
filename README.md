@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Seungjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjohan&show_icons=true&theme=vue-dark)
+<!--  GitHub Stat  -->
+<img src="https://github-readme-stats.vercel.app/api?username=seungjohan&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true" width=59%>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=seungjohan&repo=webeingfruits&theme=dracula)](https://github.com/seungjohan/webeingfruits)
 </br>
 </br>
-
-
 
 <!-- Tech Stack -->
 <h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
