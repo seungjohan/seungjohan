@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 <!--  Linkedin   -->
 <a href="https://www.linkedin.com/in/seungjohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungjohan/"></a> &nbsp
 <!--  Medium   -->
-<a href="https://hanseungjo.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://hanseungjo.medium.com/"></a> &nbsp
+<a href="https://konnellwaldron.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://hanseungjo.medium.com/"></a> &nbsp
 <!--  Brunch   -->
-<a href="https://brunch.co.kr/@hanseungjo/"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://brunch.co.kr/@hanseungjo/"></a> &nbsp
+<a href="https://brunch.co.kr/@hieut/"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=https://brunch.co.kr/@hanseungjo/"></a> &nbsp
 <!--  NaverBlog   -->
 <a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a> &nbsp
 <!--  Facebook   -->
-<a href="https://www.facebook.com/seungjohan1012"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seungjohan1012"></a> &nbsp
+<!-- <a href="https://www.facebook.com/seungjohan1012"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/seungjohan1012"></a> &nbsp -->
 <!--  Instagram   -->
-<a href="https://www.instagram.com/1012inthemirror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1012inthemirror/"></a> &nbsp
-
+<!-- <a href="https://www.instagram.com/1012inthemirror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1012inthemirror/"></a> &nbsp
+ -->
 </p>
 
 
