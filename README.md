@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!--  Brunch   -->
 <a href="https://brunch.co.kr/@hieut/"><img src="https://img.shields.io/badge/Brunch-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://brunch.co.kr/@hanseungjo/"></a> &nbsp
 <!--  NaverBlog   -->
-<a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a> &nbsp
+<!-- <a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a> &nbsp -->
 <!-- Tistory  -->
 <!-- <a href="https://konnellwaldron.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-28680d?style=flat-square&logo=tistory&logoColor=white"/></a> -->
