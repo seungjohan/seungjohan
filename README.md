@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 <a href="mailto:seungjohan.kr@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:seunjohan.kr@gmail.com?subject=Hi%SeungJo,%reaching%out%to%you%from%Github!)"></a> &nbsp
 <!--  Linkedin   -->
 <a href="https://www.linkedin.com/in/seungjohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungjohan/"></a> &nbsp
-<!--  Medium   -->
-<a href="https://konnellwaldron.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://hanseungjo.medium.com/"></a> &nbsp
+<!--  Substack   -->
+<a href="https://konnellkelly.substack.com/"><img src="https://img.shields.io/badge/Substack-000000?style=flat-square&logo=Substack&logoColor=white&link=https://konnellkelly.substack.com/"></a> &nbsp
 <!--  Brunch   -->
-<a href="https://brunch.co.kr/@hieut/"><img src="https://img.shields.io/badge/Brunch-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://brunch.co.kr/@hanseungjo/"></a> &nbsp
+<a href="https://brunch.co.kr/@konnellkelly/"><img src="https://img.shields.io/badge/Brunch-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://brunch.co.kr/@konnellkelly/"></a> &nbsp
 <!--  NaverBlog   -->
 <!-- <a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a> &nbsp -->
 <!-- Tistory  -->
