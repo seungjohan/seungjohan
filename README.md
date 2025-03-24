@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <!--  Gmail   -->
 <a href="mailto:seungjohan.kr@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:seunjohan.kr@gmail.com?subject=Hi%SeungJo,%reaching%out%to%you%from%Github!)"></a> &nbsp
 <!--  Linkedin   -->
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/seungjohan/)
+<a href="https://www.linkedin.com/in/seungjohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungjohan/"></a> &nbsp
 <!--  Substack   -->
 <a href="https://konnellkelly.substack.com/"><img src="https://img.shields.io/badge/Substack-FF7731?style=flat-square&logo=Substack&logoColor=white&link=https://konnellkelly.substack.com/"></a> &nbsp
 <!--  Brunch   -->
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 
 
-🇰🇷🇺🇸🇪🇸
+🗣️ 🇰🇷🇺🇸🇪🇸🇫🇷
 
 
 #### #entrepreneur #business #IT #startup #global
