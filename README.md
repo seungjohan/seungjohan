@@ -1,6 +1,10 @@
 ## Seungjo HAN 🇰🇷
-#### As a Product Manager, Software Engineer, and Business Developer
-## 🔥 DYNAMIC, SELF-STARTER, TEAM PLAYER, AND PEOPLE PERSON 🔥
+#### As a Product Manager, and Software Engineer
+## 🔥 PROACTIVE, TAKING ACTION, and TEAM PLAYER 🔥
+- Entrepreneurship
+- Technology
+- Global Communication
+- Proactive Drive
 
 ### Ex-Cofounder @Webeing
 <!-- ### (Coming Soon)Preparing New Startup
