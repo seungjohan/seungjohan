@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 <!--  Linkedin   -->
 <a href="https://www.linkedin.com/in/seungjohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungjohan/"></a> &nbsp
 <!--  Substack   -->
-<a href="https://konnellkelly.substack.com/"><img src="https://img.shields.io/badge/Substack-FF7731?style=flat-square&logo=Substack&logoColor=white&link=https://konnellkelly.substack.com/"></a> &nbsp
+<a href="https://seungjohan.substack.com/"><img src="https://img.shields.io/badge/Substack-FF7731?style=flat-square&logo=Substack&logoColor=white&link=https://seungjohan.substack.com/"></a> &nbsp
 <!--  Brunch   -->
-<a href="https://brunch.co.kr/@konnellkelly/"><img src="https://img.shields.io/badge/Brunch-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://brunch.co.kr/@konnellkelly/"></a> &nbsp
+<a href="https://brunch.co.kr/@seungjohan/"><img src="https://img.shields.io/badge/Brunch-FFCD00?style=flat-square&logo=kakao&logoColor=white&link=https://brunch.co.kr/@seungjohan/"></a> &nbsp
 <!--  NaverBlog   -->
 <!-- <a href="https://blog.naver.com/tmdwh7275/"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/tmdwh7275/"></a> &nbsp -->
 <!-- Tistory  -->
